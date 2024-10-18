@@ -1,6 +1,0 @@
-{
-  "scripts": {
-    "deploy": "echo 'Deploying directly from main branch via GitHub settings'"
-  },
-  "homepage": "https://shuzaifak.github.io/weather-app"
-}
